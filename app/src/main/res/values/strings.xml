@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Currency Converter</string>
+    <string name="enter_amount">Amount</string>
+    <string name="convert">Convert</string>
+
+    <string-array name="currency">
+        <item>USD</item>
+        <item>UERO</item>
+        <item>POUND</item>
+        <item>JPN</item>
+        <item>AED</item>
+        <item>KWD</item>
+    </string-array>
+</resources>
